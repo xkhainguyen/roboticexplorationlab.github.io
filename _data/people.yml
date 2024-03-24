@@ -12,7 +12,7 @@ taylor:
     github: thowell
     role: alum
     image: /img/people/taylor.jpg
-    bio: Model-predictive control and differentiable simulators for contact
+    bio: Model-predictive Control and Differentiable Simulators for Contact
 
 brian:
     display_name: "Brian Jackson"
@@ -104,7 +104,7 @@ kevin:
     github: kevintracy7
     role: phd
     image: /img/people/kevin.jpg
-    bio: Optimization and control
+    bio: Optimization and Control
 
 swamig:
     display_name: "Swaminathan Gurumurthy"
@@ -128,7 +128,7 @@ rianna:
     github: rjitosho
     role: phd
     image: /img/people/rianna.jpeg
-    bio: Motion planning for soft robots
+    bio: Motion Planning for Soft Robots
 
 suvansh:
     display_name: "Suvansh Sanjeev"
@@ -161,7 +161,7 @@ fausto:
     github: vegaf1
     role: phd
     image: /img/people/fausto.jpg
-    bio: Small spacecraft and navigation
+    bio: Small Spacecraft and Navigation
 
 chiyen:
     display_name: "Chiyen Lee"
@@ -190,9 +190,9 @@ jbwillis:
     display_name: "Jacob Willis"
     webpage: "https://www.linkedin.com/in/jacob-willis/"
     github: jbwillis
-    role: phd
+    role: alum
     image: /img/people/jacobwillis.jpg
-    bio: Small spacecraft systems and control
+    bio: Albedo Space
 
 jj:
     display_name: "Jeong Hun (JJ) Lee"
@@ -207,8 +207,8 @@ paulo:
     webpage: "https://www.linkedin.com/in/paulo-fisch"
     github: Pfisch23
     role: phd
-    image: /img/people/Paulo.jpg
-    bio: Small satellite vision and localization
+    image: /img/people/Paulo2.jpeg
+    bio: Small Satellite Vision and Localization
 
 mitch:
     display_name: "Mitchell Fogelson"
@@ -224,7 +224,7 @@ sofia:
     github: sofiakwok
     role: masters
     image: /img/people/sofia.jpg
-    bio: Bipedal optimization and control
+    bio: Bipedal Optimization and Control
 
 zixin:
     display_name: "Zixin Zhang"
@@ -234,14 +234,13 @@ zixin:
     image: /img/people/zixin.jpg
     bio: PhD at Northwestern University
     
-
 giusy:
     display_name: "Giusy Falcone"
     webpage: "https://gfalcon2.web.illinois.edu/"
     github: gfalcon2
-    role: postdoc
+    role: alum
     image: /img/people/giusy.jpg
-    bio: Postdoctoral Fellow
+    bio: Assistant Professor at University of Michigan
 
 john:
     display_name: "John Zhang"
@@ -249,7 +248,7 @@ john:
     github: johnzhang3
     role: masters
     image: /img/people/john.jpg
-    bio: Contact-rich simulation and control
+    bio: Contact-rich Simulation and Control
 
 khai:
     display_name: "Khai Nguyen"
@@ -257,7 +256,7 @@ khai:
     github: xkhainguyen
     role: masters
     image: /img/people/khai.jpg
-    bio: Optimization-based planning and control
+    bio: Optimization-based Planning and Control
  
 sam:
     display_name: "Sam Schoedel"
@@ -265,15 +264,15 @@ sam:
     github: sschoedel
     role: masters
     image: /img/people/sam.jpg
-    bio: Optimization-based planning and control
+    bio: Optimization-based Planning and Control
 
 arun:
     display_name: "Arun Bishop"
     webpage: "https://www.linkedin.com/in/arun-bishop"
-    github: abot98
+    github: arunleob
     role: phd
     image: /img/people/arun.jpg
-    bio: Optimization and control through contact
+    bio: Contact-rich Optimization and Control
 
 ibrahima:
     display_name: "Ibrahima S. Sow"
@@ -281,23 +280,31 @@ ibrahima:
     github: Ibrassow 
     role: masters
     image: /img/people/ibrahima.jpg
-    bio: Planning and control for space robotics
+    bio: Spacecraft Planning, Navigation, and Control
+
+prakrit:
+    display_name: "Prakrit Tyagi"
+    webpage: "https://prakrittyagi.github.io/"
+    github: prakrittyagi
+    role: masters
+    image: /img/people/prakrit.jpg
+    bio: Optimization and Control
 
 aaronT:
     display_name: "Aaron Trowbridge"
     webpage: "https://aarontrowbridge.github.io/"
     github: aarontrowbridge 
     role: staff
-    image: /img/people/AaronT.jpeg
+    image: /img/people/AaronT.jpg
     bio: Quantum Optimal Control
 
 anoushka:
     display_name: "Anoushka Alavilli"
     # webpage: "https://www.linkedin.com/in/ibrasw/"
     # github:  
-    role: masters
+    role: alum
     image: /img/people/Anoushka.jpg
-    bio: Optimization and learning-based control
+    bio: NASA Jet Propulsion Laboratory (JPL)
 
 willK:
     display_name: "Will Kraus"
@@ -305,7 +312,7 @@ willK:
     github: willkraus9 
     role: masters
     image: /img/people/WillKraus.png
-    bio: Planning and control for Legged Robots
+    bio: Planning and Control for Legged Robots
 
 juan:
     display_name: "Juan Alvarez Padilla"
@@ -315,6 +322,61 @@ juan:
     image: /img/people/JuanRodolfoRexLab.jpg
     bio: Learning and Optimization Based Controls
 
+pedro:
+    display_name: "Pedro Andrade"
+    webpage: "https://www.linkedin.com/in/pedronrandrade/"
+    github:  
+    role: alum
+    image: /img/people/pedro.jpg
+    bio: Small Satellite Avionics and Control
+
+ashley:
+    display_name: "Ashley Kline"
+    webpage: "https://www.linkedin.com/in/ankline/"
+    github:  
+    role: masters
+    image: /img/people/ashley.jpeg
+    bio: Small Spacecraft Design and Navigation
+
+pedro2:
+    display_name: "Pedro Cachim"
+    webpage: "https://www.linkedin.com/in/pedro-rocha-cachim/"
+    github: prchall123
+    role: phd
+    image: /img/people/pedro2.jpg
+    bio: Spacecraft Guidance, Navigation and Control
+
+tae: 
+    display_name: "Tae Rugh"
+    webpage: "http://www.taerugh.com/"
+    github: taerugh
+    role: masters
+    image: /img/people/tae.jpg
+    bio: Robotic State Estimation and Control
+
+jon_arrizabalaga:
+    display_name: "Jon Arrizabalaga"
+    webpage: "https://jonarriza96.github.io/"
+    github:  
+    role: postdoc
+    image: /img/people/jonarrizabalaga.jpg
+    bio: Visiting from Technical University of Munich | Differential Geometry, Optimization and Control
+
+elakhya:
+    display_name: "Elakhya Nedumaran"
+    webpage: "https://www.linkedin.com/in/elakhya-nedumaran/ "
+    github:  
+    role: masters
+    image: /img/people/elakhya.png
+    bio: Optimization-based Control
+
+neil:
+    display_name: "Neil Khera"
+    webpage: "https://www.linkedin.com/in/neilkhera/"
+    github: NeilKhera 
+    role: staff
+    image: /img/people/Neil.jpg
+    bio: Small Satellite Hardware and Avionics
 # grad-a:
 #     display_name: "Grad A"
 #     role: grad

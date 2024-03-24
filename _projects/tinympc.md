@@ -8,6 +8,7 @@ people:
   - khai
   - sam
   - anoushka
+  - elakhya
   - zac
 
 layout: project
